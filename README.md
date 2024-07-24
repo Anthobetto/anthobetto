@@ -1,8 +1,10 @@
 <h1 align="center">Hi, my name is Anthony 🙋🏽‍♂️</h1>
 
 ### 
-<div align="center">
-<img src="https://www.andromo.com/wp-content/uploads/2022/01/01-Learn-How-to-Code-a-Mobile-app.jpg" width="70%" height="400">
+
+Student at [4Geeks Academy](https://4geeksacademy.com/es/)
+<div align="center" width="480" height="480">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2o0bWRlYW1wYjZsem82YmJxeGpudXZuenB5cnZ0bG5ubjVmZnlyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.webp">
 </div>
 
 ###
@@ -36,10 +38,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
-
-Student at [4Geeks Academy](https://4geeksacademy.com/es/)
 
 ###
 
