@@ -1,9 +1,5 @@
 ![images/example.png](https://github.com/Anthobetto/anthobetto/blob/53fdd6399ba78c1c99eea4da8ae33b2a6605a5cb/Profile.png)
 
-<div align="center"> <a href="https://4geeksacademy.com/es/inicio"><img src="https://avatars.githubusercontent.com/u/16607406?s=200&v=4" alt="4Geeks Academy" style="width:102px;height:102px;"></a>
-  <h1>4Geeks Academy student</h1> 
-</div>
-
 <div align="center" width="480" height="480">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2o0bWRlYW1wYjZsem82YmJxeGpudXZuenB5cnZ0bG5ubjVmZnlyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.webp">
 </div>
@@ -18,7 +14,8 @@
 
 ###
 
-<p align="left">I'm always willing to learn something new every single day.<br><br>- 🔭💻 I’m working as Kit Digital Trainer for Erictel 🌐<br>- 📚 I'm currently learning Full-Stack Software Developer skills<br>- ⚡ In my free time I code 👨🏽‍💻, run 🏃🏽 and play paddle 🎾</p>
+<p align="left">I'm always willing to learn something new every single day.<br><br>- 🔭💻 I’m working as Kit Digital Trainer for Erictel 🌐<br>- 📚 I'm currently learning Full-Stack Software Developer skills at 4Geeks Academy  <a href="https://4geeksacademy.com/es/inicio"><img src="https://avatars.githubusercontent.com/u/16607406?s=200&v=4" alt="4Geeks Academy" style="width:72px;height:72px;"> </a>
+<br><br><br>- ⚡ In my free time I code 👨🏽‍💻, run 🏃🏽 and play paddle 🎾</p>
 
 ###
 
