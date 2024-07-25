@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm always willing to learn something new every single day.<br><br>- 🔭💻 I’m working as Kit Digital Trainer for Erictel 🌐<br>- 📚 I'm currently learning Full-Stack Software Developer skills at <a href="https://4geeksacademy.com/es/inicio" target="_blank"><img src="https://img.shields.io/static/v1?message=4Geeks%20Academy&logo=4geeks&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25"/></a>
+<p align="left">I'm always willing to learn something new every single day.<br><br>- 🔭💻 I’m working as Kit Digital Trainer for Erictel 🌐<br><br>- 📚 I'm currently learning Full-Stack Software Developer skills at <a href="https://4geeksacademy.com/es/inicio" target="_blank"><img src="https://img.shields.io/static/v1?message=4Geeks%20Academy&logo=4geeks&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25"/></a>
 <br>
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
