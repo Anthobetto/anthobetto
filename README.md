@@ -14,7 +14,12 @@
 
 ###
 
-<p align="left">I'm always willing to learn something new every single day.<br><br>- 🔭💻 I’m working as Kit Digital Trainer for Erictel 🌐<br>- 📚 I'm currently learning Full-Stack Software Developer skills at 4Geeks Academy  <a href="https://4geeksacademy.com/es/inicio"><img src="https://avatars.githubusercontent.com/u/16607406?s=200&v=4" alt="4Geeks Academy" style="width:72px;height:72px;"> </a>
+<p align="left">I'm always willing to learn something new every single day.<br><br>- 🔭💻 I’m working as Kit Digital Trainer for Erictel 🌐<br>- 📚 I'm currently learning Full-Stack Software Developer skills at <a href="https://4geeksacademy.com/es/inicio">4Geeks Academy </a> 
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <br><br><br>- ⚡ In my free time I code 👨🏽‍💻, run 🏃🏽 and play paddle 🎾</p>
 
 ###
