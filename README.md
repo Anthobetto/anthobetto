@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/Anthobetto/anthobetto/blob/53fdd6399ba78c1c99eea4da8ae33b2a6605a5cb/Profile.png" width="200" style="border-radius: 50%;">
   <h1>Hi, I'm Anthony Flores 🚀</h1>
   <p><strong>Full Stack Software Developer | UI/UX Enthusiast</strong></p>
 </div>
